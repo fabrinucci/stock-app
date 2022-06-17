@@ -1,0 +1,17 @@
+{
+  "name": "stock-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Fabrizio",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
